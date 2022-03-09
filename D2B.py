@@ -6,7 +6,7 @@ def decimalToBinary(num):
         decimalToBinary(num // 2)
     print(num % 2, end ='')
 
-number = bool(input("Enter any number (no decimals allowed): "))
+number = int(input("Enter any number (no decimals allowed): "))
 
 decimalToBinary(number)
 
