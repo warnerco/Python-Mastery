@@ -7,7 +7,7 @@ message = "sun"
 key = Fernet.generate_key() #128 bits, PKCS7 padding
  
 #instance the Fernet class with the key
-fernet = Fernet(key)
+fernet = Fernet(key) #calling key with Fernet.generate_key() and printing it with variabke fernet
  
 #then use the Fernet class instance 
 #to encrypt the string string must must be encoded to byte string before encryption
