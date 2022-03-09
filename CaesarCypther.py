@@ -9,7 +9,7 @@ def encrypt(text,s):
             result += chr((ord(char)+s-97)  % 26+97)
             
         return result
-text = "Natalie Warner"
+text = "Untitled Folder"
 s = 4
 print ("Plain Text: " + text)
 print ("Shift Pattern: " + str(s))
