@@ -12,7 +12,7 @@ def PosNegZer(arr):
     
     #traverse the array and coynt the positive, 
     ##negative a zero elements -nnw
-    for i in range(length): 
+    for i in range(lensssgth): 
         if (arr[i] > 0 ):
             posnum += 1;
         elif (arr[i] <0):
