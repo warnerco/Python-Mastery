@@ -1,4 +1,4 @@
-#this script turns digits into binary
+#this program turns digits into binary
 import math
 
 def decimalToBinary(num):

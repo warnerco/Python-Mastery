@@ -1,13 +1,13 @@
 from cryptography.fernet import Fernet
  
 #encrypting string
-message = "hello geeks"
+message = "sun"
  
 #use fernet to generate
 key = Fernet.generate_key() #128 bits, PKCS7 padding
  
 #instance the Fernet class with the key
-fernet = Fernet(key(len(8)))
+fernet = Fernet(key)
  
 #then use the Fernet class instance 
 #to encrypt the string string must must be encoded to byte string before encryption
