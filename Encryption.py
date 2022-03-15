@@ -1,3 +1,4 @@
+#nnw
 from cryptography.fernet import Fernet
  
 #encrypting string
