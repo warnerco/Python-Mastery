@@ -1,4 +1,4 @@
-#NNW a program that uses OOP to make a scatter plot of triangular geometric shapes 
+#NNW MY VERY OWN program that uses OOP to make a scatter plot of triangular geometric shapes 
 
 import random
 import matplotlib.pyplot as plt 
