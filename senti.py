@@ -29,7 +29,7 @@ for wordz in readFileList:
 
 print("Positive word amount: ",counter1)
 print("Positive word amount: ",counter2)
-print("Neutral word amount: ", counter3)
+print("Neutral word amount: ",counter3)
 
 
 
