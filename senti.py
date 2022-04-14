@@ -28,7 +28,7 @@ for wordz in readFileList:
             #print(wordz)
 
 print("Positive word amount: ",counter1)
-print("Positive word amount: ",counter2)
+print("Negative word amount: ",counter2)
 print("Neutral word amount: ",counter3)
 
 
