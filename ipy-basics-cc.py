@@ -1,4 +1,4 @@
-#IPython basics # CC means Crursera Code from coursera class 
+#IPython basics # CC means Coursera Code from Coursera class 
 #nnw
 
 import numpy as np
