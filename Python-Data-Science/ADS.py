@@ -11,5 +11,3 @@
 
 # Applied Data Science Part 3 Jupyter Notebook:
 # file:///Users/master/Desktop/Applied%20Data%20Science%20Part%203.html 
-
-

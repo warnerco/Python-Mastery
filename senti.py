@@ -27,7 +27,7 @@ for wordz in readFileList:
         counter3 += 1
             #print(wordz)
 
-print("Positive word amount: ",counter1)
+print("Positive word amount: ",counter1, "for file ")
 print("Negative word amount: ",counter2)
 print("Neutral word amount: ",counter3)
 
